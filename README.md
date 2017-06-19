@@ -1,2 +1,4 @@
 # demo_repo
-Demonstration repo from 2017-06 Git tutorial
+
+This is a repository used for a demonstration of git at eScience, June 2017
+
